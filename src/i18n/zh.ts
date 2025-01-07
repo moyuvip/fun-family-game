@@ -28,6 +28,14 @@ export default {
       bestScore: '最高分数',
       gameOver: '游戏结束！',
       tryAgain: '再试一次'
+    },
+    memoryMatch: {
+      title: '消消乐',
+      moves: '步数',
+      score: '得分',
+      best: '最高分',
+      newGame: '新游戏',
+      win: '恭喜获胜！',
     }
   }
 }; 

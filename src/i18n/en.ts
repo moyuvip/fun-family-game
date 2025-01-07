@@ -27,6 +27,14 @@ export default {
       instruction1: 'Use arrow keys to move all tiles.',
       instruction2: 'When two tiles with the same number collide, they merge into their sum.',
       instruction3: 'Try to get a high score! The game ends when the board is full and no moves are possible.'
+    },
+    memoryMatch: {
+      title: 'Memory Match',
+      moves: 'Moves',
+      score: 'Score',
+      best: 'Best',
+      newGame: 'New Game',
+      win: 'Congratulations!',
     }
   }
 }; 
