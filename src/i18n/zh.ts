@@ -36,6 +36,14 @@ export default {
       best: '最高分',
       newGame: '新游戏',
       win: '恭喜获胜！',
+    },
+    snake: {
+      title: '贪吃蛇',
+      score: '得分',
+      best: '最高分',
+      newGame: '新游戏',
+      gameOver: '游戏结束！',
+      startPrompt: '按方向键开始游戏'
     }
   }
 }; 

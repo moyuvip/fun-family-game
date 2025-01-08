@@ -23,7 +23,7 @@ const MainLayout: React.FC = () => {
       <footer className="bg-white shadow-sm w-full mt-auto">
         <div className="max-w-[1200px] mx-auto py-4 px-4">
           <div className="flex flex-col items-center text-sm text-gray-600 space-y-2">
-            <p>©2024 - 2025 FunFamilyGame. All rights reserved.</p>
+            <p>©2024 - 2025 程序员悟饭. All rights reserved.</p>
             <a 
               href="https://github.com/moyuvip/fun-family-game.git"
               target="_blank"

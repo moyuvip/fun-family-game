@@ -15,12 +15,22 @@ export const games: GameConfig[] = [
   {
     id: 'memory-match',
     title: '消消乐',
-    description: '翻转卡片配对相同图案，考验记忆力',
+    description: '交换相邻方块，匹配三个相同图案',
     coverImage: '/games/memory-match/cover.png',
     type: 'phaser',
     width: 450,
     height: 600,
     backgroundColor: '#ffffff'
+  },
+  {
+    id: 'snake',
+    title: '贪吃蛇',
+    description: '控制蛇吃食物成长，注意不要撞到墙或自己',
+    coverImage: '/games/snake/cover.png',
+    type: 'phaser',
+    width: 450,
+    height: 600,
+    backgroundColor: '#f8fafc'
   }
 ];
 

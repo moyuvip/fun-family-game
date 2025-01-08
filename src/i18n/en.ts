@@ -35,6 +35,14 @@ export default {
       best: 'Best',
       newGame: 'New Game',
       win: 'Congratulations!',
+    },
+    snake: {
+      title: 'Snake',
+      score: 'Score',
+      best: 'Best',
+      newGame: 'New Game',
+      gameOver: 'Game Over!',
+      startPrompt: 'Press arrow keys to start'
     }
   }
 }; 
